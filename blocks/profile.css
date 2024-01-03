@@ -141,4 +141,10 @@
   .profile__button_type_add {  
     margin: 36px 0 0 0;  
   }  
-} 
+}  
+
+@media screen and (max-width: 320px) {  
+  .profile {  
+    margin-bottom: 10px;  
+  }  
+}
