@@ -51,8 +51,3 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 580px) {
-  .card__button {
-    padding: 0;
-  }
-}
